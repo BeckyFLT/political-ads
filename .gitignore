@@ -1,0 +1,11 @@
+# Never commit the Facebook API token — it is a password.
+fb_token.txt
+
+# Python clutter
+__pycache__/
+*.pyc
+
+# Local env / wrangler
+.wrangler
+.dev.vars*
+.env*
