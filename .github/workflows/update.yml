@@ -1,0 +1,40 @@
+name: Update political ads monitor
+
+# Runs twice a day (07:30 and 16:30 UTC) and can also be run by hand from the
+# Actions tab. GitHub's free scheduled runs can be late by a while — fine for a
+# twice-daily refresh.
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "30 7 * * *"
+    - cron: "30 16 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # lets the job commit the refreshed page
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch ads and rebuild the page
+        env:
+          FB_TOKEN: ${{ secrets.FB_TOKEN }}
+        run: python scripts/build.py
+
+      - name: Commit the updated page
+        run: |
+          git config user.name "Political ads bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add index.html data/
+          git diff --staged --quiet || git commit -m "Site update: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
