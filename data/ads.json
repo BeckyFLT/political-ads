@@ -64,7 +64,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 1500,
+    "impressions_estimate": 3500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=4285736065023427"
@@ -78,7 +78,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 1500,
+    "impressions_estimate": 2500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=2026593481287170"
@@ -92,7 +92,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 1500,
+    "impressions_estimate": 3500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1271981661678251"
@@ -106,7 +106,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 1500,
+    "impressions_estimate": 2500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1331213449113051"
@@ -134,7 +134,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 2500,
+    "impressions_estimate": 6500,
     "platforms": "facebook, instagram",
     "text": "Reform UK would ban foreign nationals from accessing social housing. Click here if you agree.",
     "link": "https://www.facebook.com/ads/library/?id=853284194206814"
@@ -145,8 +145,8 @@
     "page_name": "Conservatives",
     "party": "Conservative",
     "start": "2026-06-29",
-    "stop": "still running",
-    "running": true,
+    "stop": "2026-06-30",
+    "running": false,
     "spend_estimate": 50,
     "impressions_estimate": 550,
     "platforms": "facebook, instagram",
@@ -162,7 +162,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 150,
-    "impressions_estimate": 42500,
+    "impressions_estimate": 65000,
     "platforms": "facebook, instagram",
     "text": "Restore Britain's candidate for the Norfolk Police and Crime Commissioner by-election. A farmer, a veteran and a family man - Mark Buckton. If you live in Norfolk, follow our campaign on Restore Britain Norfolk.",
     "link": "https://www.facebook.com/ads/library/?id=1030825932811990"
@@ -470,7 +470,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 9500,
+    "impressions_estimate": 12500,
     "platforms": "facebook, instagram",
     "text": "Reform UK will stop the small boats, close asylum hotels, and quit European courts to secure our borders.",
     "link": "https://www.facebook.com/ads/library/?id=1590866445726891"
@@ -484,7 +484,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 7500,
+    "impressions_estimate": 8500,
     "platforms": "facebook, instagram",
     "text": "Reform UK will stop the small boats, close asylum hotels, and quit European courts to secure our borders.",
     "link": "https://www.facebook.com/ads/library/?id=1925418291506640"
@@ -526,7 +526,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 9500,
+    "impressions_estimate": 12500,
     "platforms": "facebook, instagram",
     "text": "Reform UK will stop the small boats, close asylum hotels, and quit European courts to secure our borders.",
     "link": "https://www.facebook.com/ads/library/?id=3517616751732606"
@@ -554,7 +554,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 9500,
+    "impressions_estimate": 12500,
     "platforms": "facebook, instagram",
     "text": "Reform UK councils have delivered the lowest average council tax rises in the country. ✅",
     "link": "https://www.facebook.com/ads/library/?id=1473395284807133"
@@ -624,7 +624,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 1500,
+    "impressions_estimate": 2500,
     "platforms": "facebook, instagram",
     "text": "Sign our petition to demand an end to a two-tier policing and justice system in Britain.",
     "link": "https://www.facebook.com/ads/library/?id=856902407094964"
@@ -666,7 +666,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 1500,
+    "impressions_estimate": 2500,
     "platforms": "facebook, instagram",
     "text": "Sign our petition to demand an end to a two-tier policing and justice system in Britain.",
     "link": "https://www.facebook.com/ads/library/?id=1559599078888500"
@@ -694,7 +694,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 1500,
+    "impressions_estimate": 2500,
     "platforms": "facebook, instagram",
     "text": "Sign our petition to demand an end to a two-tier policing and justice system in Britain.",
     "link": "https://www.facebook.com/ads/library/?id=3642847975868859"
@@ -792,7 +792,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 1500,
+    "impressions_estimate": 2500,
     "platforms": "facebook, instagram",
     "text": "Sign our petition to demand an end to a two-tier policing and justice system in Britain.",
     "link": "https://www.facebook.com/ads/library/?id=1707709293753694"
@@ -806,7 +806,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 1500,
+    "impressions_estimate": 2500,
     "platforms": "facebook, instagram",
     "text": "Sign our petition to demand an end to a two-tier policing and justice system in Britain.",
     "link": "https://www.facebook.com/ads/library/?id=4020159518120501"
@@ -848,7 +848,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 1500,
+    "impressions_estimate": 2500,
     "platforms": "facebook, instagram",
     "text": "Sign our petition to demand an end to a two-tier policing and justice system in Britain.",
     "link": "https://www.facebook.com/ads/library/?id=1013545001428527"
@@ -890,7 +890,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 1500,
+    "impressions_estimate": 2500,
     "platforms": "facebook, instagram",
     "text": "Sign our petition to demand an end to a two-tier policing and justice system in Britain.",
     "link": "https://www.facebook.com/ads/library/?id=1265669308976316"
@@ -1002,7 +1002,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 1500,
+    "impressions_estimate": 2500,
     "platforms": "facebook, instagram",
     "text": "Sign our petition to demand an end to a two-tier policing and justice system in Britain.",
     "link": "https://www.facebook.com/ads/library/?id=841243592154617"
@@ -1044,7 +1044,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 1500,
+    "impressions_estimate": 2500,
     "platforms": "facebook, instagram",
     "text": "Sign our petition to demand an end to a two-tier policing and justice system in Britain.",
     "link": "https://www.facebook.com/ads/library/?id=1046686657708701"
@@ -1212,7 +1212,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 12500,
+    "impressions_estimate": 17500,
     "platforms": "facebook, instagram",
     "text": "Reform UK will stop the small boats, close asylum hotels, and quit European courts to secure our borders.",
     "link": "https://www.facebook.com/ads/library/?id=1008738221520462"
@@ -1254,7 +1254,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 1500,
+    "impressions_estimate": 2500,
     "platforms": "facebook, instagram",
     "text": "Sign our petition to demand an end to a two-tier policing and justice system in Britain.",
     "link": "https://www.facebook.com/ads/library/?id=1320664550211717"
@@ -1310,7 +1310,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 8500,
+    "impressions_estimate": 9500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=4061762964123373"
@@ -1338,7 +1338,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 8500,
+    "impressions_estimate": 9500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=983247124550688"
@@ -1366,7 +1366,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 6500,
+    "impressions_estimate": 7500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=999069009589861"
@@ -1394,7 +1394,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 8500,
+    "impressions_estimate": 9500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1241551961270632"
@@ -1478,7 +1478,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 2500,
+    "impressions_estimate": 3500,
     "platforms": "facebook, instagram",
     "text": "Sign our petition to demand an end to a two-tier policing and justice system in Britain.",
     "link": "https://www.facebook.com/ads/library/?id=1005809058862134"
@@ -1506,7 +1506,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 7500,
+    "impressions_estimate": 8500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1041903005040636"
@@ -1561,7 +1561,7 @@
     "start": "2026-06-24",
     "stop": "still running",
     "running": true,
-    "spend_estimate": 2250,
+    "spend_estimate": 2750,
     "impressions_estimate": 750000,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
@@ -1576,7 +1576,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 6500,
+    "impressions_estimate": 7500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1843290036639566"
@@ -1590,7 +1590,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 7500,
+    "impressions_estimate": 8500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=2158814624851383"
@@ -1604,7 +1604,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 7500,
+    "impressions_estimate": 8500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=2591179057945549"
@@ -1618,7 +1618,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 8500,
+    "impressions_estimate": 9500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=3105263293144728"
@@ -2514,7 +2514,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 8500,
+    "impressions_estimate": 9500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1028193529699946"
@@ -2528,7 +2528,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 9500,
+    "impressions_estimate": 12500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1042910471725477"
@@ -2542,7 +2542,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 9500,
+    "impressions_estimate": 12500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=4586561161668841"
@@ -2570,7 +2570,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 8500,
+    "impressions_estimate": 9500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1399159708928125"
@@ -2598,7 +2598,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 9500,
+    "impressions_estimate": 12500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1320261496947091"
@@ -2640,7 +2640,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 9500,
+    "impressions_estimate": 12500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1509831446824370"
@@ -2668,7 +2668,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 8500,
+    "impressions_estimate": 9500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=981841214468017"
@@ -2696,7 +2696,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 8500,
+    "impressions_estimate": 9500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1598086238503572"
@@ -2710,7 +2710,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 8500,
+    "impressions_estimate": 9500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1902406077136406"
@@ -2724,7 +2724,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 8500,
+    "impressions_estimate": 9500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=2385029585315065"
@@ -2738,7 +2738,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 9500,
+    "impressions_estimate": 12500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=2566959557050894"
@@ -2752,7 +2752,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 9500,
+    "impressions_estimate": 12500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=3024426614413720"
@@ -2780,7 +2780,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 8500,
+    "impressions_estimate": 9500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1006063898631076"
@@ -2808,7 +2808,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 7500,
+    "impressions_estimate": 8500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1398365372123938"
@@ -2822,7 +2822,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 8500,
+    "impressions_estimate": 9500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1506004327125163"
@@ -2836,7 +2836,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 9500,
+    "impressions_estimate": 12500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1530433675213453"
@@ -2864,7 +2864,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 8500,
+    "impressions_estimate": 9500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1854893812587712"
@@ -2878,7 +2878,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 8500,
+    "impressions_estimate": 9500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1931117110929150"
@@ -2892,7 +2892,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 9500,
+    "impressions_estimate": 12500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1942577586411743"
@@ -2906,7 +2906,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 9500,
+    "impressions_estimate": 12500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=4456103451311534"
@@ -2948,7 +2948,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 8500,
+    "impressions_estimate": 9500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=2238532070316631"
@@ -2990,7 +2990,7 @@
     "stop": "still running",
     "running": true,
     "spend_estimate": 50,
-    "impressions_estimate": 8500,
+    "impressions_estimate": 9500,
     "platforms": "facebook, instagram",
     "text": "Enough of waiting around - Reform is ready for an election and we can deliver radical change.\n\nSign our petition if you want a General Election.",
     "link": "https://www.facebook.com/ads/library/?id=1351423826950833"
@@ -3715,8 +3715,8 @@
     "page_name": "Reform UK",
     "party": "Reform UK",
     "start": "2026-06-23",
-    "stop": "2026-06-30",
-    "running": false,
+    "stop": "still running",
+    "running": true,
     "spend_estimate": 350,
     "impressions_estimate": 225000,
     "platforms": "facebook",
